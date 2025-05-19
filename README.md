@@ -68,12 +68,7 @@ A robust banking simulation application with full PayPal integration. Users can 
 - **Features**: Interbank transfers, account management, PayPal payments
 - **Live Demo**: [front-end-gray-one.vercel.app](https://front-end-gray-one.vercel.app)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thetalisman&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thetalisman&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🏆 GitHub Achievements
 
