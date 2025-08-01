@@ -47,6 +47,14 @@ Currently developing **Spring AI Customer Support** for JoinAI, leveraging **Ret
 
 ## 🎯 Featured Projects
 
+### 🚨 Virtual Assistant Powered by Spring-AI and RAG + Vector Databases
+This was an experimentation where i built an customer support Assisstant as a grattitude to my company i was working for during my internship for their FinTech Platform -- JOINAI
+
+- **Technologies**: React, Spring Boot, Spring-AI, RAG(Retrieval Augemented Generation, PostgreSQL
+- **Features**: Can chat with it about the platform. It can open a ticket for you through the intergration with the Customer Support System
+- **Live Demo**: https://joinai-support-assistant.vercel.app/
+- 
+
 ### 🚨 Community Forum
 A platform for like-minded individuals to connect and collaborate. Users can join interest-based groups and communicate seamlessly. Designed for scalability and user engagement.
 
