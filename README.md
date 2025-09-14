@@ -47,6 +47,16 @@ Currently developing **Spring AI Customer Support** for JoinAI, leveraging **Ret
 
 ## 🎯 Featured Projects
 
+
+
+### 🚨 Interactive CV
+An experimentation project which i built using Java and Spring-AI for exploration purposes and testing out Spring-AI
+
+- **Technologies**: React, Spring Boot, Spring-AI, RAG
+- **Features**: Is my CV which i created into an interactive form using RAG and Spring-AI and Java Spring-Boot
+- **Live Demo**: https://joinai-support-assistant.vercel.app/](https://my-personal-ai-interface.vercel.app/
+- 
+
 ### 🚨 Virtual Assistant Powered by Spring-AI and RAG + Vector Databases
 This was an experimentation where i built an customer support Assisstant as a grattitude to my company i was working for during my internship for their FinTech Platform -- JOINAI
 
