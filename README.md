@@ -54,7 +54,7 @@ An experimentation project which i built using Java and Spring-AI for exploratio
 
 - **Technologies**: React, Spring Boot, Spring-AI, RAG
 - **Features**: Is my CV which i created into an interactive form using RAG and Spring-AI and Java Spring-Boot
-- **Live Demo**: https://joinai-support-assistant.vercel.app/](https://my-personal-ai-interface.vercel.app/
+- **Live Demo**: https://my-personal-ai-interface.vercel.app/
 - 
 
 ### 🚨 Virtual Assistant Powered by Spring-AI and RAG + Vector Databases
