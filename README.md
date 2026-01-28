@@ -13,7 +13,7 @@
 
 > **Full Stack Developer | Bridging Technology and Reality**
 
-I'm a passionate full-stack developer on a mission to bridge the gap between technology and reality. With over **3 years of experience**, I've worked as a freelancer and as a software developer at CICOSY Zimbabwe, specializing in Java and Thymeleaf. I thrive on building innovative solutions that make a real impact.
+I'm a passionate full-stack developer on a mission to bridge the gap between technology and reality. With over **4 years of experience**, I've worked as a freelancer and as a software developer at CICOSY Zimbabwe, specializing in Java and Thymeleaf. I thrive on building innovative solutions that make a real impact.
 
 Currently developing **Spring AI Customer Support** for JoinAI, leveraging **Retrieval-Augmented Generation (RAG)** to deliver cutting-edge solutions for customer support.
 
